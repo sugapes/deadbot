@@ -1,0 +1,5 @@
+MouseInput	KEYWORD1
+init		   KEYWORD2
+getX		   KEYWORD2
+getY		   KEYWORD2
+update	   KEYWORD2
